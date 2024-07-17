@@ -1,0 +1,11 @@
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 100%;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}

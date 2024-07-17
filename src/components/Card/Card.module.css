@@ -1,0 +1,13 @@
+.card {
+    flex: 1 1 300px;
+    padding: 30px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background-color: rgb(194, 193, 193);
+
+}
+
+.card p {
+    font-size: 22px;
+}
